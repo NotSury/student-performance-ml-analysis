@@ -1,0 +1,7 @@
+# Verified on Python 3.14 with: numpy 2.3.4, pandas 2.3.3, scikit-learn 1.7.2,
+# matplotlib 3.10.7, notebook 7.6.5 (re-run reproduced the original outputs exactly).
+numpy>=2.0,<3
+pandas>=2.2,<3
+scikit-learn>=1.6,<1.8
+matplotlib>=3.8
+notebook>=7.0
