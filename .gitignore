@@ -1,0 +1,15 @@
+# Python / Jupyter
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Course-provided FIT1043 datasets (distributed via Monash Moodle; not redistributed here)
+data/Student_List_A2.csv
+data/Student_List_A2_Submission.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
